@@ -1,2 +1,4 @@
 github.com/google/uuid v1.2.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/gopherd/doge v0.0.18 h1:hg6mONi/Gn5n4+zylJhoVmhygX6YQ3dGYTmSbpzfYys=
+github.com/gopherd/doge v0.0.18/go.mod h1:dE0CoD04rbZt5qHOBZTgCdy5JYmUwEtyJtIVe+RM2mU=
 github.com/gopherd/log v0.1.5/go.mod h1:3gfrf1i6YwDhX/UPQtWHZVTcBrhurIVms0kjcLeNXR4=
